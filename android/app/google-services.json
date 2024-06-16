@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026766899024",
+    "project_id": "skilled-worker-b4ccc",
+    "storage_bucket": "skilled-worker-b4ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026766899024:android:c5ac4aa94114500db7ce55",
+        "android_client_info": {
+          "package_name": "com.skilled.worker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE8kbMTZYLAkTg0OXsKqDUshULyfCvNeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

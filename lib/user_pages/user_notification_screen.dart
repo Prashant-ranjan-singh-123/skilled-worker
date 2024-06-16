@@ -9,8 +9,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/get.dart';
-import 'package:v_bhartiya/user_pages/landingPage.dart';
-import 'package:v_bhartiya/user_pages/user_bottom_navigation_screen.dart';
+import 'package:Skilled_worker/user_pages/landingPage.dart';
+import 'package:Skilled_worker/user_pages/user_bottom_navigation_screen.dart';
 import '../notifications_things_plus_num_fetch/notification_expand_page.dart';
 import '../shimmer/notification_shimmer.dart';
 import '../utils/Internet/CheckInternetConnectionWidget.dart';
@@ -390,7 +390,7 @@ class _UserNotificationState extends State<UserNotification> {
   }
 
   void listenForNotifications() {
-    DatabaseReference databaseReference = FirebaseDatabase.instance.reference();
+    DatabaseReference databaseReference = FirebaseDatabase.instance.ref();
     databaseReference.child('notifications').onChildAdded.listen((event) {
       var notification = event.snapshot.value;
       print('New Notification: $notification');

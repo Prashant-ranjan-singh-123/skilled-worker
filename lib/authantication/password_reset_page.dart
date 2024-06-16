@@ -113,7 +113,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:lottie/lottie.dart';
-import 'package:v_bhartiya/shimmer/reset_done.dart';
+import 'package:Skilled_worker/shimmer/reset_done.dart';
 
 class PasswordReset extends StatefulWidget {
   final String phoneNum;

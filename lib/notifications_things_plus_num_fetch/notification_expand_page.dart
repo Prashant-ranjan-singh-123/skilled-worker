@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:gallery_saver_plus/gallery_saver.dart';
 import 'package:get/get.dart';
 
 import '../utils/snakbar.dart';
@@ -47,8 +46,8 @@ class _NotificationExpandState extends State<NotificationExpand> {
   }
 
   void _saveNetworkImage(String path) async {
-    await GallerySaver.saveImage(path);
-    SnakbarCustom().show('Saved', 'Photo Successfully saved to gallery');
+    // await GallerySaver.saveImage(path);
+    // SnakbarCustom().show('Saved', 'Photo Successfully saved to gallery');
   }
 
 

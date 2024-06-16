@@ -2,7 +2,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:v_bhartiya/authantication/is_user_login.dart';
+import 'package:Skilled_worker/authantication/is_user_login.dart';
 import 'on_boarding/config_on_boarding_page.dart';
 
 

@@ -7,7 +7,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:lottie/lottie.dart';
-import 'package:v_bhartiya/authantication/opt_reset_password.dart';
+import 'package:Skilled_worker/authantication/opt_reset_password.dart';
 
 import '../utils/snakbar.dart';
 

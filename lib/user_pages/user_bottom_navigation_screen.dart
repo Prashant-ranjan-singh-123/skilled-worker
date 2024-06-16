@@ -1,10 +1,10 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
-import 'package:v_bhartiya/user_pages/billing_screen.dart';
-import 'package:v_bhartiya/user_pages/landingPage.dart';
-import 'package:v_bhartiya/user_pages/user_notification_screen.dart';
-import 'package:v_bhartiya/user_pages/user_profile_screen.dart';
+import 'package:Skilled_worker/user_pages/billing_screen.dart';
+import 'package:Skilled_worker/user_pages/landingPage.dart';
+import 'package:Skilled_worker/user_pages/user_notification_screen.dart';
+import 'package:Skilled_worker/user_pages/user_profile_screen.dart';
 import '../utils/Internet/CheckInternetConnectionWidget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/widgets.dart';

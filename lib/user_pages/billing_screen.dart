@@ -8,8 +8,8 @@ import 'package:hexcolor/hexcolor.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:get/get.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
-import 'package:v_bhartiya/shimmer/payment_done.dart';
-import 'package:v_bhartiya/user_pages/user_bottom_navigation_screen.dart';
+import 'package:Skilled_worker/shimmer/payment_done.dart';
+import 'package:Skilled_worker/user_pages/user_bottom_navigation_screen.dart';
 
 import '../shimmer/payment_fail.dart';
 

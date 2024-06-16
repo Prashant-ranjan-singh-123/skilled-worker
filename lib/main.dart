@@ -1,15 +1,16 @@
+import 'package:Skilled_worker/splash.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:v_bhartiya/checkFirstTime.dart';
-import 'package:v_bhartiya/shimmer/profile_shimmer.dart';
-import 'package:v_bhartiya/shimmer/pushnotification_shimmer.dart';
-import 'package:v_bhartiya/splash.dart';
-import 'package:v_bhartiya/theme/themes.dart';
+import 'package:Skilled_worker/checkFirstTime.dart';
+import 'package:Skilled_worker/shimmer/profile_shimmer.dart';
+import 'package:Skilled_worker/shimmer/pushnotification_shimmer.dart';
+import 'package:Skilled_worker/splash.dart';
+import 'package:Skilled_worker/theme/themes.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:v_bhartiya/utils/Internet/CheckInternetConnectionWidget.dart';
+import 'package:Skilled_worker/utils/Internet/CheckInternetConnectionWidget.dart';
 import 'notifications_things_plus_num_fetch/save_notification_shared_pref.dart';
 
 late String? _number;
@@ -56,8 +57,8 @@ void main() async {
 // import 'package:firebase_messaging/firebase_messaging.dart';
 // import 'package:flutter/material.dart';
 // import 'package:get/get.dart';
-// import 'package:v_bhartiya/checkFirstTime.dart';
-// import 'package:v_bhartiya/theme/themes.dart';
+// import 'package:Skilled_worker/checkFirstTime.dart';
+// import 'package:Skilled_worker/theme/themes.dart';
 // import 'package:firebase_core/firebase_core.dart';
 //
 //

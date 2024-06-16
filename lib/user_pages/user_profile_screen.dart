@@ -5,10 +5,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:v_bhartiya/authantication/login_or_signup_page.dart';
-import 'package:v_bhartiya/shimmer/profile_shimmer.dart';
-import 'package:v_bhartiya/user_pages/user_profile_edit.dart';
-import 'package:v_bhartiya/user_pages/utils/userDeviceTokensWork.dart';
+import 'package:Skilled_worker/authantication/login_or_signup_page.dart';
+import 'package:Skilled_worker/shimmer/profile_shimmer.dart';
+import 'package:Skilled_worker/user_pages/user_profile_edit.dart';
+import 'package:Skilled_worker/user_pages/utils/userDeviceTokensWork.dart';
 
 import '../utils/snakbar.dart';
 

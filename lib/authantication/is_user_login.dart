@@ -1,8 +1,8 @@
 // import 'package:flutter/material.dart';
 // import 'package:firebase_auth/firebase_auth.dart';
-// import 'package:v_bhartiya/authantication/login_or_signup_page.dart';
-// import 'package:v_bhartiya/user_pages/createNotification.dart';
-// import 'package:v_bhartiya/user_pages/user_bottom_navigation_screen.dart';
+// import 'package:Skilled_worker/authantication/login_or_signup_page.dart';
+// import 'package:Skilled_worker/user_pages/createNotification.dart';
+// import 'package:Skilled_worker/user_pages/user_bottom_navigation_screen.dart';
 //
 // class IsUserLogIn extends StatefulWidget {
 //   const IsUserLogIn({super.key});
@@ -34,8 +34,8 @@
 // import 'package:flutter/material.dart';
 // import 'package:firebase_auth/firebase_auth.dart';
 // import 'package:shared_preferences/shared_preferences.dart';
-// import 'package:v_bhartiya/authantication/login_or_signup_page.dart';
-// import 'package:v_bhartiya/user_pages/user_bottom_navigation_screen.dart';
+// import 'package:Skilled_worker/authantication/login_or_signup_page.dart';
+// import 'package:Skilled_worker/user_pages/user_bottom_navigation_screen.dart';
 //
 // class IsUserLogIn extends StatefulWidget {
 //   const IsUserLogIn({Key? key}) : super(key: key);
@@ -86,8 +86,8 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:v_bhartiya/authantication/login_or_signup_page.dart';
-import 'package:v_bhartiya/user_pages/user_bottom_navigation_screen.dart';
+import 'package:Skilled_worker/authantication/login_or_signup_page.dart';
+import 'package:Skilled_worker/user_pages/user_bottom_navigation_screen.dart';
 
 class IsUserLogIn extends StatefulWidget {
   const IsUserLogIn({Key? key}) : super(key: key);

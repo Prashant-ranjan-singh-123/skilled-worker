@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:v_bhartiya/user_pages/createNotification.dart';
+import 'package:Skilled_worker/user_pages/createNotification.dart';
 
 class PushNotificationShimmer extends StatelessWidget {
   const PushNotificationShimmer({super.key});

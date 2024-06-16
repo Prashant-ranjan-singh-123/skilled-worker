@@ -5,8 +5,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:v_bhartiya/authantication/login_page.dart';
-import 'package:v_bhartiya/authantication/sign_up_page.dart';
+import 'package:Skilled_worker/authantication/login_page.dart';
+import 'package:Skilled_worker/authantication/sign_up_page.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 

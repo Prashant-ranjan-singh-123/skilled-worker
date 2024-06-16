@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:v_bhartiya/user_pages/utils/dropdown_menu.dart';
-import 'package:v_bhartiya/user_pages/utils/edit_text_widget.dart';
+import 'package:Skilled_worker/user_pages/utils/dropdown_menu.dart';
+import 'package:Skilled_worker/user_pages/utils/edit_text_widget.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:get/get.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -11,7 +11,7 @@ import 'package:geocoding/geocoding.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:geolocator/geolocator.dart';
 import 'dart:io';
-import 'package:v_bhartiya/user_pages/utils/userDeviceTokensWork.dart';
+import 'package:Skilled_worker/user_pages/utils/userDeviceTokensWork.dart';
 import 'package:intl/intl.dart';
 
 import '../utils/snakbar.dart';

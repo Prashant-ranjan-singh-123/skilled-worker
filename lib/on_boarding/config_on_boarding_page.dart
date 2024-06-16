@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:v_bhartiya/authantication/login_or_signup_page.dart';
+import 'package:Skilled_worker/authantication/login_or_signup_page.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import 'package:get/get.dart';
 

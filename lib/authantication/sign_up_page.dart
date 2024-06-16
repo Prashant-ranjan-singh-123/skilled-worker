@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:v_bhartiya/authantication/login_page.dart';
+import 'package:Skilled_worker/authantication/login_page.dart';
 import 'package:get/get.dart';
-import 'package:v_bhartiya/authantication/otp_page.dart';
+import 'package:Skilled_worker/authantication/otp_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:v_bhartiya/user_pages/utils/dropdown_menu.dart';
+import 'package:Skilled_worker/user_pages/utils/dropdown_menu.dart';
 
 import '../utils/snakbar.dart';
 import 'login_or_signup_page.dart';

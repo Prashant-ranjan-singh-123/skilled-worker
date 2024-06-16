@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:lottie/lottie.dart';
-import 'package:v_bhartiya/user_pages/landingPage.dart';
+import 'package:Skilled_worker/user_pages/landingPage.dart';
 
 import '../user_pages/user_bottom_navigation_screen.dart';
 
